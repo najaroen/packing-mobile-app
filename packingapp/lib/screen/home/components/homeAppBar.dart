@@ -7,7 +7,7 @@ AppBar homeAppBar(BuildContext context) {
     backgroundColor: Colors.white,
     elevation: 0,
     leading: IconButton(
-      icon: Image.asset("assets/icons/menu.png", width: 25, height: 25,),
+      icon: Image.asset("assets/icons/menu.png", width: 20, height: 20,),
       onPressed: () {},
     ),
     title: RichText(
